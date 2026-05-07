@@ -1,0 +1,10 @@
+.DS_Store
+.vscode/
+*.log
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+chroma_db/
+dist/
